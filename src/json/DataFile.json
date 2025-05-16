@@ -1,0 +1,573 @@
+[
+  {
+    "name": "Residential properties",
+    "data": [
+      {
+        "id": 1,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 2,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 3,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 4,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 5,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 6,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 7,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 8,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 9,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 10,
+        "Address": "DHA Phase 10, Lahore 10 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "121,000",
+        "bed": "1",
+        "bath": "5",
+        "garage": "0"
+      },
+      {
+        "id": 11,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 12,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 13,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 14,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 15,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 16,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 17,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 18,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 19,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 20,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 21,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 22,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 23,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 24,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 25,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 26,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 27,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 28,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 29,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 30,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 31,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 32,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 33,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 34,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      }
+    ]
+  },
+  {
+    "name": "Rent a place",
+    "data": [
+      {
+        "id": 1,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 2,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 3,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 4,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 5,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 6,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 7,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 8,
+        "Address": "DHA Phase 6, Lahore 1 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 9,
+        "Address": "DHA Phase 9, Lahore 9 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "21,000",
+        "bed": "1",
+        "bath": "4",
+        "garage": "5"
+      },
+      {
+        "id": 10,
+        "Address": "DHA Phase 10, Lahore 10 Canal Spacious",
+        "img": "assets/img/Property.png",
+        "price": "121,000",
+        "bed": "1",
+        "bath": "5",
+        "garage": "0"
+      }
+    ]
+  },
+  {
+    "name": "top agents",
+    "data": [
+      {
+        "id": 1,
+        "name": "Agency # 1",
+        "img": "assets/img/agency1.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 2,
+        "name": "Agency # 2",
+        "img": "assets/img/agency2.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 3,
+        "name": "Agency # 3",
+        "img": "assets/img/agency3.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 4,
+        "name": "Agency # 4",
+        "img": "assets/img/agency4.jpg",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 5,
+        "name": "Agency # 5",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 6,
+        "name": "Agency # 6",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 7,
+        "name": "Agency # 7",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 8,
+        "name": "Agency # 8",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 9,
+        "name": "Agency # 9",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 10,
+        "name": "Agency # 10",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 11,
+        "name": "Agency # 11",
+        "img": "assets/img/Agent.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      }
+    ]
+  },
+  {
+    "name": "top societies",
+    "data": [
+      {
+        "id": 1,
+        "name": "Society # 1",
+        "img": "assets/img/society1.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 2,
+        "name": "Society # 2",
+        "img": "assets/img/society2.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 3,
+        "name": "Society # 3",
+        "img": "assets/img/society3.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 4,
+        "name": "Society # 4",
+        "img": "assets/img/society4.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 5,
+        "name": "Society # 5",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 6,
+        "name": "Society # 6",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 7,
+        "name": "Society # 7",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 8,
+        "name": "Society # 8",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 9,
+        "name": "Society # 9",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 10,
+        "name": "Society # 10",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      },
+      {
+        "id": 11,
+        "name": "Society # 11",
+        "img": "assets/img/socity.png",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+      }
+    ]
+  },
+  {
+    "name": "news and updates",
+    "data": [
+      {
+        "id": 1,
+        "title": "What Makes Bahria Town Lahore a Dream Place to Live?",
+        "desc": "It is located in Iqbal Tehsil of Lahore and consists of A to F sectors. All sectors.",
+        "img": "assets/img/news.png"
+      },
+      {
+        "id": 2,
+        "title": "What Makes Bahria Town Lahore a Dream Place to Live?",
+        "desc": "It is located in Iqbal Tehsil of Lahore and consists of A to F sectors. All sectors.",
+        "img": "assets/img/news.png"
+      },
+      {
+        "id": 3,
+        "title": "What Makes Bahria Town Lahore a Dream Place to Live?",
+        "desc": "It is located in Iqbal Tehsil of Lahore and consists of A to F sectors. All sectors.",
+        "img": "assets/img/news.png"
+      }
+    ]
+  }
+]
